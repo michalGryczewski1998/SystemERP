@@ -1,0 +1,22 @@
+.login-button{
+    -fx-background-color: white;
+    -fx-background-radius: 0;
+    -fx-border-color: black;
+    -fx-font-fill: black;
+    -fx-font-size: 12px;
+}
+
+.background-text{
+    -fx-font-fill: -fx-primary-background;
+    -fx-font-size: 40px;
+}
+
+.text{
+    -fx-font-fill: -fx-primary-white;
+    -fx-font-size: 12px;
+    -fx-alignment: center;
+}
+
+.separator{
+    -fx-background-color: black;
+}
